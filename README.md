@@ -1,5 +1,5 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date: 
+### Date: 06.10.2025
 
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
